@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **barai.aditi14@gmail.com**
 
-- ⚡ Fun fact **🚀 What I Bring to the Table:**
+- 🚀 What I Bring to the Table:
 - **Languages I Speak (Code Edition): C, C++, Python** 
 - **Pro Skills: Data Structures & Algorithms (DSA), Web Development, IoT, Machine Learning and MYsql**
 - **Learning Adventures: AI tools and exploring the ever-evolving world of tech 💡**
