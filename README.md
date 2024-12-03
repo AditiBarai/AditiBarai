@@ -7,7 +7,7 @@
 
 - 🤖 I’m currently working on **Word Sense Disambiguation with ML**
 
-- 🌱 I’m currently learning **AIML,Machine Learning using Python, RNN and Bigru in ML**
+- 🌱 I’m currently learning **AIML,Machine Learning with Python, RNN and Bigru in ML**
 
 - 🌐 I've completed project on **Smart Home Automation using IOT**
 
