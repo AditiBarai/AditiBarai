@@ -13,7 +13,10 @@
 
 - 📫 How to reach me **barai.aditi14@gmail.com**
 
-- ⚡ Fun fact **🚀 What I Bring to the Table: - Languages I Speak (Code Edition): C, C++, Python, Mysql** - **Pro Skills: Data Structures & Algorithms (DSA), Web Development, IoT, Machine Learning - Learning Adventures: AI tools and exploring the ever-evolving world of tech 💡**
+- ⚡ Fun fact **🚀 What I Bring to the Table:**
+- **Languages I Speak (Code Edition): C, C++, Python** 
+- **Pro Skills: Data Structures & Algorithms (DSA), Web Development, IoT, Machine Learning and MYsql**
+- **Learning Adventures: AI tools and exploring the ever-evolving world of tech 💡**
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ### 🏅 Certified & Proud:
